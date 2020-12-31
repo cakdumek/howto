@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://howto.onrender.com/sitemap.xml
